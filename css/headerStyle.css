@@ -1,0 +1,17 @@
+body {
+    margin-top: 122px;
+}
+.header {
+    position: fixed;
+    top: 0;
+    left: 0%;
+    background-color: saddlebrown;
+    width: 100%;
+}
+.navegador  a{
+    color: white;
+    text-decoration: none;
+}
+.navegador  a:hover{
+    color: rgb(29, 32, 70);
+}

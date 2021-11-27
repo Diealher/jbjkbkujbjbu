@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/fondo de la ultima pagina.jpg");
+}
+h3, h1 {
+    color: white;
+    padding: 12px;
+    border-radius: 18px;
+    background-color: rgb(106, 106, 0);
+    width: fit-content;
+}
+h3 {
+    color: rgb(127, 252, 25);
+} 

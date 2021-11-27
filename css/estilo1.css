@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.t1{
+	color: rgb(206, 41, 12);
+}
+img {
+	height: 350px;
+	max-width: 100%;
+	object-fit: cover;
+}
+body {
+	background: linear-gradient(0.25turn, #1f3741, #ebf8e1, #1f3741);
+}
